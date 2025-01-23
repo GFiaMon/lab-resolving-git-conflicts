@@ -1,9 +1,10 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
-* I have some experience analyzing data from my own experiments but no formal training whatsoever.
+*I was born in Argentina but moved to Europe when I was 19.
+*I a Masters in Media Arts and technology and also a Bachelor in Sound Engineering.
+*I do not have experience analyzing data, but worked all my life with technology
+
 
 # Why am I here
 
